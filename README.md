@@ -1,6 +1,6 @@
 # Hi there, I'm Vick 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/great_devxy?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sirv1ck)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sirv1ck?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/sirv1ck)
 
 ## Senior Software Engineer | Full-Stack Developer 
 
